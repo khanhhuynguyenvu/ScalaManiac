@@ -3,8 +3,6 @@
 **Bold**
 Some text
 
-hahaha what the fuck is going on with this
-
 ## Code 
 
 ```Scala

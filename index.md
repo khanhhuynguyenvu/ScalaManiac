@@ -30,8 +30,21 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+## Code Syntax [Python]
+```python
+def sayHi():
+  print("hi")
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Link github code [Relative]
+```Scala
+object Hello {
+    def main(args: Array[String]) = {
+        println("Hello, world")
+    }
+}
+```
 
 ### Jekyll Themes
 

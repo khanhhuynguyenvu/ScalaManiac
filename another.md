@@ -14,3 +14,8 @@ object Hello {
     }
 }
 ```
+
+```python
+def hello():
+    print("hello world")    
+```
